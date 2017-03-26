@@ -29,7 +29,7 @@ function displayMyData() {
 	+ 'Last name : Dyjak\n'
 	+ 'City : Kraków\n'
 	+ 'Settlement : Dąbie\n'
-	+ 'District : Grzegórzki'
+	+ 'District : Grzegórzki\n'
 	+ 'email address : mateuszdyjak5@gmail.com' ;
 
 navigator.notification.alert(info);
